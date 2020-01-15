@@ -1,0 +1,16 @@
+{
+	"notification_title":"",
+	"notification_message":"",
+	"notification_sender":"",
+	"notification_type":"hybrid|multiple|sms|email|push|realtime",
+	"notification_receiver":{
+		"phone":{
+			"number":"+2348151000091",
+			"country":"NG"
+		},
+		"email":"adeolaayo31@yahoo.com",
+		"fcm_token":"",
+		"socket_id":""
+	},
+	"message_priority":["phone","email","push","realtime"]
+}
